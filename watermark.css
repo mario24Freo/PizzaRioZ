@@ -1,0 +1,12 @@
+/* Watermark styling for EPUB pages */
+.epub-watermark {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  font-size: 80px;
+  font-weight: bold;
+  color: rgba(200, 200, 200, 0.3); /* Adjust color and opacity here */
+  z-index: -1; /* Ensures it sits behind your text */
+  pointer-events: none; /* Allows readers to highlight text over it */
+}
