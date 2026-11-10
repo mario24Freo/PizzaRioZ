@@ -12,5 +12,6 @@ are not included in this GitHub repository.
 
 ## Under construction
 This website is under construction.
+Release planned for December 1, 2026.
 November 8, 2026
 MarioZ
